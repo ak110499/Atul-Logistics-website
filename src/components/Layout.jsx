@@ -43,7 +43,7 @@ function Footer() {
         <div>
           <h2 className="text-base font-semibold">Atul Logistics</h2>
           <p className="mt-3 max-w-sm text-sm text-deepSlate/80">
-            Total logistics solutions for air, sea, and road freight with dependable execution.
+            Reliable freight movement with transparent communication and modern logistics operations.
           </p>
         </div>
 
@@ -52,18 +52,18 @@ function Footer() {
           <ul className="mt-3 space-y-2 text-sm">
             <li>
               <a
-                href="tel:+912261218888"
+                href="tel:+11234567890"
                 className="transition-colors hover:text-electricBlue focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-electricBlue/70"
               >
-                +91 22 6121 8888
+                +1 (123) 456-7890
               </a>
             </li>
             <li>
               <a
-                href="mailto:atulship@atulship.in"
+                href="mailto:hello@atullogistics.com"
                 className="transition-colors hover:text-electricBlue focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-electricBlue/70"
               >
-                atulship@atulship.in
+                hello@atullogistics.com
               </a>
             </li>
           </ul>
@@ -71,7 +71,7 @@ function Footer() {
 
         <div>
           <h3 className="text-sm font-semibold uppercase tracking-wide text-deepSlate/80">Office</h3>
-          <p className="mt-3 text-sm text-deepSlate/80">G-4C, Ground Floor, Silverline Co-Op. Hsg. Soc. Ltd., S.B. Marg, J. B Nagar, Andheri (E), Mumbai - 400059</p>
+          <p className="mt-3 text-sm text-deepSlate/80">123 Logistics Avenue, Newark, NJ 07102</p>
         </div>
       </div>
     </footer>
